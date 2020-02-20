@@ -3,7 +3,7 @@
 	"private": true,
 	"displayName": "wapitis-plugin",
 	"description": "Syntax highlighting, type checking and code completion for Wapitis",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"publisher": "NicolasBoyer",
 	"icon": "docs/assets/wapitis-plugin@256w.png",
 	"license": "MIT",
