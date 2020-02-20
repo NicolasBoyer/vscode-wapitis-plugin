@@ -144,9 +144,9 @@ You can find all the other features in the section ``other features`` of [lit-pl
 ## ➤ Contributors
 	
 
-| [<img alt="Nicolas Boyer" src="https://joeschmoe.io/api/v1/random" width="100">](undefined) | [<img alt="Rune Mehlsen" src="https://avatars2.githubusercontent.com/u/5372940?s=460&v=4" width="100">](https://twitter.com/runemehlsen) | [<img alt="Andreas Mehlsen" src="https://avatars1.githubusercontent.com/u/6267397?s=460&v=4" width="100">](https://twitter.com/andreasmehlsen) |
+| [<img alt="Nicolas Boyer" src="https://joeschmoe.io/api/v1/random" width="100">](https://github.com/NicolasBoyer) | [<img alt="Rune Mehlsen" src="https://avatars2.githubusercontent.com/u/5372940?s=460&v=4" width="100">](https://twitter.com/runemehlsen) | [<img alt="Andreas Mehlsen" src="https://avatars1.githubusercontent.com/u/6267397?s=460&v=4" width="100">](https://twitter.com/andreasmehlsen) |
 |:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
-| [Nicolas Boyer](undefined)                       | [Rune Mehlsen](https://twitter.com/runemehlsen)  | [Andreas Mehlsen](https://twitter.com/andreasmehlsen) |
+| [Nicolas Boyer](https://github.com/NicolasBoyer) | [Rune Mehlsen](https://twitter.com/runemehlsen)  | [Andreas Mehlsen](https://twitter.com/andreasmehlsen) |
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)](#license)
