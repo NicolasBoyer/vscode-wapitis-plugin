@@ -1,6 +1,6 @@
 {
 	"logo": {
-		"src": "./docs/assets/wapitis-plugin@256w.png",
+		"src": "https://github.com/NicolasBoyer/vscode-wapitis-plugin/blob/master/docs/assets/wapitis-plugin@256w.png?raw=true",
 		"width": 200
 	},
 	"line": "dark"
