@@ -2,7 +2,7 @@
 <div align="center" markdown="1">
 
   <p align="center">
-  <img src="./docs/assets/wapitis-plugin@256w.png" alt="Logo" width="200" height="auto" />
+  <img src="https://github.com/NicolasBoyer/vscode-wapitis-plugin/blob/master/docs/assets/wapitis-plugin@256w.png?raw=true" alt="Logo" width="200" height="auto" />
 </p>
 
   <p align="center">
@@ -19,7 +19,7 @@
 <a href="https://opensource.org/licenses/MIT"><img alt="MIT License" src="https://img.shields.io/badge/License-MIT-green.svg" height="20"></img></a>
 
 
-  <img src="./docs/assets/wapitis-plugin.gif" alt="Lit plugin GIF"/>
+  <img src="https://github.com/NicolasBoyer/vscode-wapitis-plugin/blob/master/docs/assets/wapitis-plugin.gif?raw=true" alt="Lit plugin GIF"/>
 
 </div>
 
