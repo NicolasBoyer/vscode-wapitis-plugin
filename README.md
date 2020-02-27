@@ -89,12 +89,11 @@ Each rule can have severity of `off`, `warning` or `error`. You can toggle rules
 **Validating LitElement / Wapitis Element**
 
 <!-- prettier-ignore -->
-| Rule                                                             | Description                                                                                                                             | Severity normal | Severity strict |
-| :--------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | --------------- | --------------- |
-| [no-incompatible-property-type](#-no-incompatible-property-type) | When using the @property decorator in Typescript, the property option `type` is checked against the declared property Typescript type   | error           | error           |
-| [no-unknown-property-converter](#-no-unknown-property-converter) | LitElement provides default converters. For example 'Function' is not a valid default converter type for a LitElement-managed property. | error           | error           |
-| [no-invalid-attribute-name](#-no-invalid-attribute-name)         | When using the property option `attribute`, the value is checked to make sure it's a valid attribute name.                              | error           | error           |
-| [no-invalid-tag-name](#-no-invalid-tag-name)                     | When defining a custom element the tag name is checked to make sure it's valid.                                                         | error           | error           |
+| Rule                                                             | Description                                                                                                                           | Severity normal | Severity strict |
+| :--------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------- | --------------- |
+| [no-incompatible-property-type](#-no-incompatible-property-type) | When using the @property decorator in Typescript, the property option `type` is checked against the declared property Typescript type | error           | error           |
+| [no-invalid-attribute-name](#-no-invalid-attribute-name)         | When using the property option `attribute`, the value is checked to make sure it's a valid attribute name.                            | error           | error           |
+| [no-invalid-tag-name](#-no-invalid-tag-name)                     | When defining a custom element the tag name is checked to make sure it's valid.                                                       | error           | error           |
 
 **Validating CSS**
 
